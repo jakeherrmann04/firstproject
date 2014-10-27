@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		235FEDF919FDD62A004028F1 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 235FEDF819FDD62A004028F1 /* SecondViewController.swift */; };
 		237F897219F886DA0035CC22 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 237F897119F886DA0035CC22 /* AppDelegate.swift */; };
 		237F897419F886DA0035CC22 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 237F897319F886DA0035CC22 /* ViewController.swift */; };
 		237F897719F886DA0035CC22 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 237F897519F886DA0035CC22 /* Main.storyboard */; };
@@ -27,7 +26,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		235FEDF819FDD62A004028F1 /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		237F896C19F886DA0035CC22 /* pre-course-git.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "pre-course-git.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		237F897019F886DA0035CC22 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		237F897119F886DA0035CC22 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -82,7 +80,6 @@
 				237F897119F886DA0035CC22 /* AppDelegate.swift */,
 				237F897319F886DA0035CC22 /* ViewController.swift */,
 				237F897519F886DA0035CC22 /* Main.storyboard */,
-				235FEDF819FDD62A004028F1 /* SecondViewController.swift */,
 				237F897819F886DA0035CC22 /* Images.xcassets */,
 				237F897A19F886DA0035CC22 /* LaunchScreen.xib */,
 				237F896F19F886DA0035CC22 /* Supporting Files */,
@@ -215,7 +212,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				235FEDF919FDD62A004028F1 /* SecondViewController.swift in Sources */,
 				237F897419F886DA0035CC22 /* ViewController.swift in Sources */,
 				237F897219F886DA0035CC22 /* AppDelegate.swift in Sources */,
 			);
